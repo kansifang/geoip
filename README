@@ -77,3 +77,4 @@ If it doesn't work on Windows, try to remove or comment out all the "package com
 from all the files.
 ========================
 MaxMind's GeoLiteCity database and Java API： http://blog.anthonychaves.net/2006/07/14/maxminds-geolitecity-database-and-java-api/
+Has used in visual-traceroute: https://github.com/cmichi/visual-traceroute/tree/master/src/com/maxmind/geoip
