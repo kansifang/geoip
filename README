@@ -75,3 +75,5 @@ Windows Notes
 ========================
 If it doesn't work on Windows, try to remove or comment out all the "package com.maxmind.geoip" lines 
 from all the files.
+========================
+MaxMind's GeoLiteCity database and Java API： http://blog.anthonychaves.net/2006/07/14/maxminds-geolitecity-database-and-java-api/
